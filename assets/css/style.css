@@ -1,0 +1,22 @@
+body{
+    background-color: aqua;
+    font-family: '8BITWONDERNominal'; 
+    font-weight: normal; 
+    font-style: normal; 
+    text-align: center;
+}
+#instructions {
+    text-align: left;
+    font-weight: bold;
+}
+
+#wins {
+    text-align: left;
+    font-weight: bold;
+}
+
+
+#losses {
+    text-align: left;
+    font-weight: bold;
+}
